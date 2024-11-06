@@ -32,4 +32,4 @@ Inspiring teams to create impactful, solutions by balancing creativity, strategy
 [find out more](/leadership){: .btn .btn-secondary}
 </div>
 </div>
-<div>
+</div>
