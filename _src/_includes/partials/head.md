@@ -2,6 +2,7 @@
 header {
   max-width: 1200px;
   margin: auto;
+  margin-bottom: 0;
   background-color: #E3DFD0;
   top: 20px;
   display: flex;

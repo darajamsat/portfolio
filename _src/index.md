@@ -3,6 +3,10 @@ layout: layouts/base
 title: At home with
 ---
 
+{% include 'patterns/hero.md' %}
+
+
+
 # Hello World
 
 ## Tea Ipsum
@@ -19,6 +23,7 @@ Turmeric rize herbal darjeeling taro teacup taro shoumei sencha sachet earl grey
 
 [a button](#){: .btn }
 [a button](#){: .btn .btn-secondary }
+[a button](#){: .btn .btn-tertiary }
 
 Tisane tisane hong kong-style milk hong kong-style milk sencha shoumei shoumei darjeeling tea garden caffeine scented energy bai mudan nokcha boba. Nokcha fermentation nokcha taro hong kong-style milk keemun keemun kukicha fair trade teahouse black irish breakfast jasmine english breakfast. Turmeric chamomile guayusa mug hong kong-style milk caffeine hong kong-style milk tea hojicha assam zen irish breakfast catechin mug taro. Strainer antioxidant chamomile chamomile shoumei nilgiri latte tea steep darjeeling focus rooibos scented tea kettle. Aromatic herbal nepal rooibos mint baihao yinzhen genmai yerba maté steep fermentation iced mug caffeine london fog.
 
