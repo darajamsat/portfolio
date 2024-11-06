@@ -5,7 +5,7 @@ title: At home with
 
 {% include 'patterns/hero.md' %}
 {% include 'patterns/story.md' %}
-
+{% include 'patterns/passion.md' %}
 
 
 # Hello World
