@@ -19,9 +19,6 @@
   font-size: 3rem;
   }
 }
-
-
-
 </style>
 
 <div class="passion grid">

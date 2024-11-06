@@ -18,7 +18,7 @@ header a {
   color: #273253;
 }
 .display {
-    font-size: 1rem;
+    font-size: .75rem;
     text-transform: uppercase;
     font-weight: 600;
     color: #273253;

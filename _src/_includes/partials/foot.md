@@ -2,6 +2,7 @@
   footer {
     max-width: 1200px;
     margin: auto;
+    margin-bottom: 20px;
     background-color: #AFC1BF;
     padding: 5px 20px;
     border-bottom-left-radius: 20px;
