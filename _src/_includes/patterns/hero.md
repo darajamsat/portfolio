@@ -1,10 +1,6 @@
 <style>
 .hero-wrap {
-  max-width: 1200px;
-  margin: auto;
-  margin-top: 0;
   background-color: #E3DFD0;
-  padding: 5px 10px;
 }
 .hero .img {
   display: flex;
@@ -31,7 +27,6 @@
 }
 @media (min-width: 800px){
   .hero-wrap {
-    padding: 5px 20px;
     background-image: url(/assets/hero.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +39,7 @@
 }
 </style>
 
-<div class="hero-wrap">
+<div class="hero-wrap grid">
 <div class="hero">
 <div class="img">
 
