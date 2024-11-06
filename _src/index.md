@@ -4,6 +4,7 @@ title: At home with
 ---
 
 {% include 'patterns/hero.md' %}
+{% include 'patterns/story.md' %}
 
 
 
